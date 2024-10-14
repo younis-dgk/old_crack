@@ -7,11 +7,9 @@ os.system('git pull --quiet 2>/dev/null')
 x="Script is On Update" 
 y="Please Wait For Next Update"
 z="Authorized by : Muhammad Younis"
-input(f"\n\033[1;92m Press Enter For join our WhatsApp Group ")
-os.system('xdg-open https://chat.whatsapp.com/CSfWIqJDSbJKdwLaQLXDFh')
 print(x) 
 print(y) 
 print(z)
- 
- 
- 
+input(f"\n\033[1;92m Press Enter For join our WhatsApp Group ")
+os.system('xdg-open https://chat.whatsapp.com/CSfWIqJDSbJKdwLaQLXDFh')
+exit()
