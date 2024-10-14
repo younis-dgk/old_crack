@@ -4,7 +4,7 @@ os.system('xdg-open https://www.youtube.com/@YounisXyz')
 os.system("clear")
 print('\033[0;97m [💸] \033[92mChecking For Updates...')
 os.system('git pull --quiet 2>/dev/null')
-x="Script is On Update" 
+x="\033[0;97mScript is On Update" 
 y="Please Wait For Next Update"
 z="Authorized by : Muhammad Younis"
 print(x) 
