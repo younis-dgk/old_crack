@@ -24,7 +24,7 @@ python Xyz.py
 ```
 
 # Results image 💊💸
-<img src="https://github.com/younis-dgk/old_crack/blob/main/Screenshot_20240915-192701.jpg" />
+<img src="[https://github.com/younis-dgk/old_crack/blob/main/Screenshot_20241125-111758.jpg]()" />
 
 
 <h3 align="left">Click below here for contact information:</h3>
